@@ -132,6 +132,3 @@ colnames(imb) = c('Brazil Imports')
 rownames(imb) = c(1990:2020)
 imb
 
-git config --global user.email "isabellemckesson@gmail.com"
-git config --global user.name "Isabelle Mckesson"
-
